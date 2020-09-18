@@ -29,33 +29,33 @@ sr.reveal("#testimonial", {
 });
 sr.reveal(".info-left", {
   duration: 1500,
-  delay: 500,
+  delay: 50,
   origin: "left",
   distance: "150px",
 });
 sr.reveal(".info-right", {
   duration: 1200,
-  delay: 250,
+  delay: 25,
   origin: "right",
   distance: "150px",
 });
 sr.reveal(".info-two-left", {
   duration: 2000,
-  delay: 700,
+  delay: 60,
   origin: "left",
   distance: "100px",
   viewFactor: 0.2,
 });
 sr.reveal(".info-two-right", {
   duration: 2000,
-  delay: 500,
+  delay: 50,
   origin: "right",
   distance: "150px",
   viewFactor: 0.2,
 });
 sr.reveal(".card", {
   duration: 2000,
-  delay: 1500,
+  delay: 50,
   origin: "right",
   distance: "70px",
   viewFactor: 0.2,
